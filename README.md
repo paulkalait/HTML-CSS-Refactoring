@@ -13,4 +13,6 @@ Third:
 
 The style sheet was refactored to reduce duplicate css coding. Here is how the duplicate coding was eliminated: 
 
+![screenshot-css-refactoring](https://user-images.githubusercontent.com/97272329/150460040-6ade47cc-79ef-45ce-b835-5a40182e228c.png)
+
 Conclusion: The HTML and CSS files have been simplified by the method of refactoring. There is now less code, but still functions the same. This is great because less code is easier to follow and reduces the odds for error.
